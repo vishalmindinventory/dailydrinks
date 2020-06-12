@@ -1,5 +1,6 @@
 # **Daily Drinks using vue & vuex**
 ##### It is example of crud operation for drink order using vue. Not used backend API, manage data in state using vuex.
+##### Easy UI integration with [Buefy](https://buefy.org)  
 
 ### Description
 
